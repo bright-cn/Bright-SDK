@@ -2,11 +2,11 @@
 ​
 所有通过安卓设备，为客户提供内容服务的​公司，都可以通过与亮数据 Bright SDK项目合作，有更多机会赚取额外收入！
 
-[宣传图片](https://github.com/bright-cn/Bright-SDK/blob/main/Screenshot%202025-05-15%20123032.jpg)
+![宣传图片](https://github.com/bright-cn/Bright-SDK/blob/main/Screenshot%202025-05-15%20123032.jpg)
 
 亮数据 Bright SDK 为您提供了一种独特的工具，可以在不显示广告的情况下最大化用户收入！它在后台运行，利用一小部分未使用的带宽来每日产生收益。点击观看以下介绍视频，了解详情。
 
-[Video](https://github.com/bright-cn/Bright-SDK/blob/main/SDK_Translation_CN.mp4)
+![Video](https://github.com/bright-cn/Bright-SDK/blob/main/SDK_Translation_CN.mp4)
 
 亮数据 Brigt SDK 为合作伙伴提供三种可选模式:
 
@@ -14,7 +14,7 @@
 - SDK 集成模式 - 您可以将 Bright SDK 集成到现有应用中。
 - 设备分发模式 - 我们购买您的定制设备，并保证最低分发数量。
 
-[宣传图片](https://github.com/bright-cn/Bright-SDK/blob/main/Screenshot%202025-05-15%20121619.jpg)
+![宣传图片](https://github.com/bright-cn/Bright-SDK/blob/main/Screenshot%202025-05-15%20121619.jpg)
 
 ## 亮数据 Bright SDK合作优势
 
