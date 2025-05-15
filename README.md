@@ -6,7 +6,7 @@
 
 亮数据 Bright SDK 为您提供了一种独特的工具，可以在不显示广告的情况下最大化用户收入！它在后台运行，利用一小部分未使用的带宽来每日产生收益。点击观看以下介绍视频，了解详情。
 
-[观看视频](https://www.bilibili.com/video/BV1qeGez3E1h?t=22.5)
+[![观看视频](https://github.com/bright-cn/Bright-SDK/blob/main/Screenshot%202025-05-15%20121319.jpg)](https://www.bilibili.com/video/BV1qeGez3E1h?t=22.5)
 
 亮数据 Brigt SDK 为合作伙伴提供三种可选模式:
 
